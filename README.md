@@ -8,8 +8,7 @@ Invertible Image Rescaling ----Paddle 复现版本
 https://aistudio.baidu.com/aistudio/datasetdetail/106261
 
 ## 训练模型
-链接：https://pan.baidu.com/s/1jf0UKI_wf7yRhwdA4AU5Kw 
-提取码：u9lr
+Weigths/IRN.pdparams
 ## 训练步骤
 ### train sr
 ```bash
